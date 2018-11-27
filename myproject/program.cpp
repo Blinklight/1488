@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	cout << MySum(10, 3) << endl;
-	cout << MySub(10, 3) << endl;
+	cout << MySub(10, 3) << endl; //1488
 	system("pause");
 	return 0;
 }
